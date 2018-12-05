@@ -14,6 +14,9 @@ on google.
 At this point you should be able to write up these methods without searching for code patterns
 on StackOverflow.
 
+At this point in the cohort, you should be able to glance at the problem, write a couple tests,
+nd then implement the method.
+
 ### For each problem.
 
 For each of these problems, you need to write the method itself, and two tests for each method. 
@@ -82,3 +85,4 @@ If you need an array of Doubles use this one.
 Double[] spiffyHandyDoubleArray = new Double[] {1.0, 0.5, 3.6, 38.4, 17.3, 62.0, 9.0, 3.375, 0, 3.14159};
 ```
 
+__But, if you don't like these arrays, feel free to make your own.__

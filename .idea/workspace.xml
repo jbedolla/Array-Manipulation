@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3455511b-a100-4bbd-b07c-68f009bc8dbc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/DocumentationOnArrays/Array Reflections.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/DocumentationOnArrays/Arrays (The Java™ Tutorials &gt; Learning the Java Language &gt; Language Basics).pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/DocumentationOnArrays/Chapter 10. Arrays.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/DocumentationOnArrays/Core Java Volume 1 - FundamentalsArrays.pdf" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -53,8 +49,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <first_editor relative-caret-position="306">
+                <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -175,6 +171,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -293,12 +290,20 @@
       <updated>1543955860758</updated>
       <workItem from="1543955862749" duration="2347000" />
       <workItem from="1543958998826" duration="113000" />
-      <workItem from="1544020724645" duration="492000" />
+      <workItem from="1544020724645" duration="762000" />
     </task>
+    <task id="LOCAL-00001" summary="readme and docs">
+      <created>1544021313039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544021313039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2952000" />
+    <option name="totallyTimeSpent" value="3222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="242" y="45" width="1538" height="962" extended-state="0" />
@@ -337,6 +342,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="readme and docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme and docs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -440,8 +449,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <first_editor relative-caret-position="306">
+            <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
