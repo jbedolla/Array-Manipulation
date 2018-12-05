@@ -1,7 +1,18 @@
 # ArraysGoneWild
 
-a series of problems to prove your array knowledge.
-you use the information in the docs folder only, NO GOOGLE on this lab.
+This is a series of java array problems to prove your array knowledge.
+
+__You may ONLY use the information in the DocumentationOnArrays folder only...__
+
+## NO GOOGLE on this lab.
+
+At this point you should be able to write up these methods without searching for code patterns
+on google.
+
+## NO STACK-OVERFLOW on this lab.
+
+At this point you should be able to write up these methods without searching for code patterns
+on StackOverflow.
 
 ### For each problem.
 
