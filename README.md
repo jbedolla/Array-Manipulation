@@ -1,4 +1,5 @@
-# ArraysGoneWild
+# WORKIG WITH ARRAYS IN MANY WAYS  
+ArraysGoneWild 
 
 This is a series of java array problems to prove your array knowledge.
 
